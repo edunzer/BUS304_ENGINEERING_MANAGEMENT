@@ -1,32 +1,29 @@
 # BUS304_ENGINEERING_MANAGEMENT
 
 Instructor Information
-Instructor: Grant Kirby Office: Online
-E-mail: Use Canvas Message center
-Office Hours: by appointment
+- Instructor: Grant Kirby 
+- Office: Online
+- E-mail: Use Canvas Message center
+- Office Hours: by appointment
 
 Course Overview/Description
-This course focuses on the engineering management process, with emphasis on the unique aspects
+- This course focuses on the engineering management process, with emphasis on the unique aspects
 of managing “knowledge workers”. We will identify the manager’s role in planning, organizing,
 leading, and controlling organizational outcomes. 
 
 Course Objectives and Outcomes
-The following course learning outcomes are addressed in this course. There are subobjectives in each
-week’s module call student learning objectives (SLO).
-CLO 1: Define how engineers and managers need to work together
-CLO 2: Know the important characteristics of leaders in the organization
-CLO 3: Comprehend how various forms of management organization, techniques, leadership and change
-management affect a company
-CLO 4: Describe the different types of forecasting and the importance of planning
-CLO 5: Discuss the primary elements of decision making and describe the role of engineers in that
-process
-CLO 6: Evaluate some of the important elements for establishing financial controls
-CLO 7: Analyze the various ways in which engineers must be involved in marketing within the
-organization
-CLO 8: Describe the key elements of the project life cycle
-CLO 9: Apply the importance of ethics in engineering and how it impacts the structure of the business
-CLO 10: Consider how you will achieve your goals for your career path
-CLO 10: Role up the topics of this course into a broad overview of engineering management
+The following course learning outcomes are addressed in this course. There are subobjectives in each week’s module call student learning objectives (SLO).
+- CLO 1: Define how engineers and managers need to work together
+- CLO 2: Know the important characteristics of leaders in the organization
+- CLO 3: Comprehend how various forms of management organization, techniques, leadership and change management affect a company
+- CLO 4: Describe the different types of forecasting and the importance of planning
+- CLO 5: Discuss the primary elements of decision making and describe the role of engineers in that process
+- CLO 6: Evaluate some of the important elements for establishing financial controls
+- CLO 7: Analyze the various ways in which engineers must be involved in marketing within the organization
+- CLO 8: Describe the key elements of the project life cycle
+- CLO 9: Apply the importance of ethics in engineering and how it impacts the structure of the business
+- CLO 10: Consider how you will achieve your goals for your career path
+- CLO 10: Role up the topics of this course into a broad overview of engineering management
 
 Week 1 Assignments due by Sunday at midnight
 Introduction to Course
